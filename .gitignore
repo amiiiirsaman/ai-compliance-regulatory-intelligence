@@ -1,0 +1,63 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# Environment
+.env
+*.env
+!.env.example
+
+# Logs
+*.log
+logs/
+
+# Database
+*.db
+*.sqlite
+
+# Node
+node_modules/
+dist/
+.npm
+
+# IDEs
+.idea/
+.vscode/settings.json
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# AWS
+.aws/
+
+# Uploads (user data)
+backend/uploads/
+
+# Test artifacts
+.pytest_cache/
+htmlcov/
+.coverage
+test_results_*.json
+
+# Large media
+*.mp4
+*.tiff
+*.avi
+*.flv
+*.mov
+*.wmv
+*.jar
+*.war

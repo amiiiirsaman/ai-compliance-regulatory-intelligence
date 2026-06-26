@@ -1,0 +1,10 @@
+Customer Account Statement
+Account: 123456789
+Date: January 2026
+
+Transaction History:
+- Wire transfer $50,000 to offshore account
+- Cash withdrawal $9,999 (multiple)
+- Securities trade without disclosure
+
+Note: Customer requested expedited processing without standard AML checks.

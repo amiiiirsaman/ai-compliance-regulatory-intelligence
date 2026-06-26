@@ -1,0 +1,61 @@
+ALPHA TRADERS BROKERAGE
+Commission-Free Trading for Everyone!
+
+ACCOUNT AGREEMENT AND DISCLOSURES
+
+Welcome to Alpha Traders! By opening an account, you agree to the following terms:
+
+1. ABOUT US
+Alpha Traders Brokerage LLC is registered with FINRA (CRD# 334455). We provide commission-free trading in stocks, ETFs, and options.
+
+2. COMMISSION-FREE TRADING
+All stock and ETF trades are commission-free. Options trades are $0.65 per contract.
+
+3. PAYMENT FOR ORDER FLOW
+We receive compensation from market makers for routing your orders to them. This creates a conflict of interest. In 2024, we received an average of $0.003 per share in PFOF. Despite this conflict, we believe our execution quality is competitive.
+
+4. BEST EXECUTION
+While we have a duty of best execution, our primary order routing is to market makers who pay us the most. We review execution quality annually.
+
+5. MARGIN ACCOUNT TERMS
+Default margin rate: 12.5% annually
+Maintenance requirement: 25% for stocks, 100% for options
+We may change requirements without notice and liquidate positions if maintenance falls short.
+
+6. OPTIONS TRADING
+We approve most customers for the highest options trading levels without extensive review. Complex strategies including naked calls and puts are available to all margin-approved accounts.
+
+RISK: Options involve significant risk of loss. You can lose more than your initial investment.
+
+7. COMPLEX PRODUCTS
+We offer leveraged ETFs, inverse ETFs, and volatility products to all customers. These products are suitable for daily trading and can be held long-term for enhanced returns.
+
+8. DAY TRADING
+Pattern day trader rules apply. If flagged as PDT, you need $25,000 minimum equity. We offer ways to work around this requirement for accounts under $25,000.
+
+9. SOCIAL TRADING FEATURES
+Copy other traders' strategies automatically. Top traders earn rewards when others copy them. Past performance of copied traders may not be representative of future results.
+
+10. INVESTMENT RECOMMENDATIONS
+Our app highlights "trending stocks" and "popular trades." These are not recommendations but might influence your trading decisions. We are not responsible for losses from following trending information.
+
+11. GAMIFICATION
+Earn points and badges for trading activity! Top traders each month win prizes. Confetti celebrations for your first options trade!
+
+12. FINRA RULE 2111 SUITABILITY
+We don't provide personalized advice, so suitability rules don't apply to us. You're on your own.
+
+13. COMPLAINTS
+Contact FINRA if you have concerns: www.finra.org/investors/have-problem
+
+14. ARBITRATION
+All disputes resolved through FINRA arbitration.
+
+SIGNATURE: By clicking "Open Account" you agree to all terms.
+
+---
+Alpha Traders Brokerage LLC
+Member FINRA/SIPC
+CRD# 334455
+
+Warning: Trading is risky. Only trade with money you can afford to lose.
